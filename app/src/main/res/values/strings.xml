@@ -1,0 +1,17 @@
+<resources>
+    <string name= "app_name">Assignmen1_RafaelRefugio_JohnPlummer</string>
+    <string name= "grade"> Grade </string>
+    <string name= "Profile"> View Profile Information </string>
+
+    <string-array name="Profile_Info">
+        <item>Rafael Refugio</item>
+        <item>Engineering</item>
+        <item>4th year</item>
+    </string-array>
+
+    <string-array name="Profile_Info2">
+        <item>John Plummer</item>
+        <item>Engineering</item>
+        <item>4th year</item>
+    </string-array>
+</resources>
